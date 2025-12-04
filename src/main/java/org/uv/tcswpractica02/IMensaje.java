@@ -6,7 +6,7 @@ package org.uv.tcswpractica02;
 
 /**
  *
- * @author sinoe
+ * @author carlos
  */
 public interface IMensaje {
     public void imprimir();

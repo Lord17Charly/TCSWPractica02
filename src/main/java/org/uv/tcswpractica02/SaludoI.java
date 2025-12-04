@@ -9,7 +9,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author sinoe
+ * @author carlos
  */
 public class SaludoI implements IMensaje{
 
