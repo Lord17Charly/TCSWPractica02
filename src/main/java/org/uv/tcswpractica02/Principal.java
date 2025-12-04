@@ -6,7 +6,7 @@ package org.uv.tcswpractica02;
 
 /**
  *
- * @author sinoe
+ * @author carlos
  */
 public class Principal extends javax.swing.JFrame {
 

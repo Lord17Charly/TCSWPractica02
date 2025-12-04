@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author sinoe
+ * @author carlos
  */
 public class EmpleadoGUI extends javax.swing.JInternalFrame {
 
